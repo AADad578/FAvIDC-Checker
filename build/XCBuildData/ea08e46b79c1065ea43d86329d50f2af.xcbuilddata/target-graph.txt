@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+TensorFlowLite in Pods, no dependencies
+TensorFlowLiteC in Pods, no dependencies
+TensorFlowLiteSwift in Pods, depends on:
+TensorFlowLiteC in Pods (explicit)
+TensorFlowLiteTaskVision in Pods, no dependencies
+Pods-FAvIDC Checker in Pods, depends on:
+TensorFlowLite in Pods (explicit)
+TensorFlowLiteC in Pods (explicit)
+TensorFlowLiteSwift in Pods (explicit)
+TensorFlowLiteTaskVision in Pods (explicit)

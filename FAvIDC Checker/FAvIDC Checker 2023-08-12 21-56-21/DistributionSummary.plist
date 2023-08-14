@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FAvIDC Checker.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DAB8AE5DEF8D9C375D1DABB1D49246564A49B5CF</string>
+				<key>dateExpires</key>
+				<string>8/7/24</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8T2NHD72MA.HUSSRPAnkur.FAvIDC-Checker</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8T2NHD72MA</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>FAvIDC Checker.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>63d2c7f3-1272-4e3b-a06d-85cebad29dc9</string>
+				<key>dateExpires</key>
+				<string>8/7/24</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: HUSSRPAnkur.FAvIDC-Checker</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8T2NHD72MA</string>
+				<key>name</key>
+				<string>Sleiman Ghorayeb</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

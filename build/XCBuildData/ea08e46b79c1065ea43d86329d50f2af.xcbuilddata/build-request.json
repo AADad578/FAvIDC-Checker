@@ -1,0 +1,55 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985c7cf73aa914a996eeaee7253017307a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fab4369369b6e5a404ed35e81ceb9009"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980c0e4f762db9e099bcccf6301d505a18"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f8aec71da154f7c9b9fbb8d65dccd1f4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98616daf78534b05d2f53f2d3d57133d21"
+    }
+  ],
+  "containerPath" : "/Users/user244707/Library/Mobile Documents/com~apple~CloudDocs/FAvIDC Checker/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/user244707/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/user244707/Library/Developer/Xcode/DerivedData/Pods-beetfkzcdjyezuerlsvvobdvdglp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/user244707/Library/Developer/Xcode/DerivedData/Pods-beetfkzcdjyezuerlsvvobdvdglp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
